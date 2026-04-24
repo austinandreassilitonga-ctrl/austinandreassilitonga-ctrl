@@ -45,5 +45,5 @@ I'm *Austin Silitonga*, a **Data Scientist** and **Data Analyst** who believes t
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austin-andreas-silitonga/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:austin.andreas.silitonga@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](austin.andreas.silitonga@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/austinandreassilitonga-ctrl)
