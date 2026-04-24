@@ -9,7 +9,7 @@ I'm *Austin Silitonga*, a **Data Scientist** and **Data Analyst** who believes t
 ## 🚀 About Me
 
 - 🔭 **Currently Building**: End-to-end ML and ETL projects spanning credit risk modeling, real-time data pipelines, and business analytics dashboards
-- 🌱 **Currently Learning**: Advanced data engineering with Apache Kafka, cloud-native pipelines on AWS, and model monitoring in production
+- 🌱 **Currently Learning**: Advanced data engineering with Apache Kafka & Apache Airflow, cloud-native pipelines on AWS, and model monitoring in production
 - 🤝 **Collaboration Interests**: Open to teaming up on data science projects, BI dashboards, predictive modeling, and automated data workflows
 - 🎯 **Background Insight**: My S1 in Communication gives me a unique edge, I don't just analyze data, I make sure the story behind it reaches the right audience clearly
 - ⚡ **Fun Fact**: My journey into data started from studying how people communicate — turns out, data tells stories too, just in a different language
