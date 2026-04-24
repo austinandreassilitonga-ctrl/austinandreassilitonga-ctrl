@@ -1,4 +1,4 @@
-# Austin Andreas Silitonga - Data Scientist / Data Analyst
+# Austin Andreas Ezra Silitonga - Data Scientist / Data Analyst
 
 👋 Hello and welcome!
 
